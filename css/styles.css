@@ -6,7 +6,7 @@
   }
   
   .main-page {
-    background-image: "assets/erich_mountain.jpg";
+    background-image: url("assets/erich_mountain.jpg");
   }
 
   section, a {
