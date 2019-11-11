@@ -5,6 +5,10 @@
     padding: 0;
   }
   
+  .main-page {
+    background-image: "assets/erich_mountain.jpg";
+  }
+
   section, a {
     color: #333;
   }
