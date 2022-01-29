@@ -11004,7 +11004,7 @@ section.resume-section .resume-section-content {
 }
 
 .hover-text {
-  color: black;
+  color: gray;
   font-size: 15px;
   position: absolute;
   top: 50%;
