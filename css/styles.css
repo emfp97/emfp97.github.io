@@ -10981,7 +10981,7 @@ section.resume-section .resume-section-content {
   }
 }
 
-.image-container {
+.icon-container {
   position: relative;
   width: 50%;
 }
@@ -10999,7 +10999,7 @@ section.resume-section .resume-section-content {
   background-color: ghostwhite;
 }
 
-.image-container:hover .overlay {
+.icon-container:hover .overlay {
   opacity: 1;
 }
 
